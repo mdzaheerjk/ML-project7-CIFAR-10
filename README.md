@@ -8,6 +8,7 @@ A machine learning project for image classification on the CIFAR-10 dataset usin
 
 ---
 
+
 ## 📦 Project Overview
 
 This repository demonstrates how to build and train a CNN for classifying images from the popular CIFAR-10 dataset. The project includes interactive Jupyter notebooks for model development, evaluation, and visualization of results.
